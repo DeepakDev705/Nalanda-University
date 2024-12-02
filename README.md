@@ -23,10 +23,8 @@ Here’s a professional and well-structured README summary for your project **Na
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Styling**: Bootstrap, Font Awesome
+- **Frontend**: Html.css,Javascript,React.
+- **Styling**:  Font Awesome.
 
 ## 📂 Project Structure
 
