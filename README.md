@@ -51,3 +51,12 @@ For any inquiries or suggestions, reach out to **[Deepak Dev](mailto:deepak@exam
 ---
 
 Feel free to modify this further to suit the specific details of your project!
+
+# Screenshots 
+![Nalanda University](https://github.com/DeepakDev705/Nalanda-University/blob/39d7fe63e277af42e459a66fa545650ecd93e36f/screenshot%20(25)-front.png)
+![Nalanda University](https://github.com/DeepakDev705/Nalanda-University/blob/39d7fe63e277af42e459a66fa545650ecd93e36f/screenshot%20(26)-front.png)
+![Nalanda University](https://github.com/DeepakDev705/Nalanda-University/blob/39d7fe63e277af42e459a66fa545650ecd93e36f/screenshot%20(27)-front.png)
+![Nalanda University](https://github.com/DeepakDev705/Nalanda-University/blob/39d7fe63e277af42e459a66fa545650ecd93e36f/screenshot%20(28)-front.png)
+![Nalanda University](https://github.com/DeepakDev705/Nalanda-University/blob/39d7fe63e277af42e459a66fa545650ecd93e36f/screenshot%20(29)-front.png)
+![Nalanda University](https://github.com/DeepakDev705/Nalanda-University/blob/39d7fe63e277af42e459a66fa545650ecd93e36f/screenshot%20(30)-front.png)
+![Nalanda University](https://github.com/DeepakDev705/Nalanda-University/blob/39d7fe63e277af42e459a66fa545650ecd93e36f/screenshot%20(31)-front.png)
